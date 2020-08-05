@@ -1,0 +1,1 @@
+{"ast":null,"code":"const s3Bucket = 'imit-files';\nconst s3Region = 'us-west-2';\nexport default {\n  getFileUrl: fileName => `https://${s3Bucket}.s3-${s3Region}.amazonaws.com/${fileName}`\n};","map":null,"metadata":{},"sourceType":"module"}

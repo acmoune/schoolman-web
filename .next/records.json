@@ -1,0 +1,48 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/_app.js": 2,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/_error.js": 3,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/application.js": 4,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/createProfile.js": 5,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/editProfile.js": 6,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/index.js": 7,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/myProfile.js": 8,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/myTrainings.js": 9,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/program.js": 10,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/resetPassword.js": 11,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/signIn.js": 12,
+      "static/ZG0LIkZ0lNqIF0N0MN3Q7/pages/training.js": 13,
+      "static/runtime/main.js": 14,
+      "static/runtime/polyfills.js": 15
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/with-apollo.jsx @apollo/react-ssr": 16
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import axios from 'axios';\nimport { baseUrl } from '../app.config';\nexport default function sendMail(options) {\n  return axios.post(\"\".concat(baseUrl, \"/sendMail\"), {\n    subject: options.subject,\n    html: options.body,\n    to: options.to\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

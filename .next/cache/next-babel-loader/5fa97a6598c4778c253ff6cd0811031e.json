@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport * as React from 'react';\nimport DepartmentBox from './DepartmentBox';\nexport default function DepartmentList({\n  departments\n}) {\n  return __jsx(\"div\", null, departments.map(d => __jsx(DepartmentBox, {\n    key: d.id,\n    department: d\n  })));\n}","map":null,"metadata":{},"sourceType":"module"}

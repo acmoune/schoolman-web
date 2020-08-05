@@ -1,0 +1,73 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-e8011738b1ac3730e620.js"
+    ],
+    "/application": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/createProfile": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/editProfile": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/myProfile": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/myTrainings": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/program": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/resetPassword": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/signIn": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ],
+    "/training": [
+      "static/runtime/webpack-5767490ec385a62dbec8.js",
+      "static/chunks/commons.f5c022990577bd1519cd.js",
+      "static/runtime/main-d452cab1c96e62eef7e0.js"
+    ]
+  }
+}

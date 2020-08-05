@@ -1,0 +1,1 @@
+{"ast":null,"code":"var s3Bucket = 'imit-images';\nvar s3Region = 'us-west-2';\nexport default {\n  getFileUrl: function getFileUrl(fileName) {\n    return \"https://\".concat(s3Bucket, \".s3-\").concat(s3Region, \".amazonaws.com/\").concat(fileName);\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

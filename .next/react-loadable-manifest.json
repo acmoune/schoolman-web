@@ -1,0 +1,22 @@
+{
+  "@apollo/react-ssr": [
+    {
+      "id": "83xU",
+      "name": "./node_modules/@apollo/react-ssr/lib/react-ssr.esm.js",
+      "file": "static/chunks/16.654b0bb5339ac999c300.js",
+      "publicPath": "static/chunks/16.654b0bb5339ac999c300.js"
+    },
+    {
+      "id": "IDhZ",
+      "name": "./node_modules/react-dom/cjs/react-dom-server.browser.production.min.js",
+      "file": "static/chunks/16.654b0bb5339ac999c300.js",
+      "publicPath": "static/chunks/16.654b0bb5339ac999c300.js"
+    },
+    {
+      "id": "KAy6",
+      "name": "./node_modules/react-dom/server.browser.js",
+      "file": "static/chunks/16.654b0bb5339ac999c300.js",
+      "publicPath": "static/chunks/16.654b0bb5339ac999c300.js"
+    }
+  ]
+}
